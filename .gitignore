@@ -1,0 +1,6 @@
+.agents/
+.claude/
+.devcontainer/
+.opencode/
+AGENTS.md
+CLAUDE.md
