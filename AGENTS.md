@@ -40,6 +40,7 @@ Additional resources per skill:
 | [openspec-propose](skills/openspec-propose/SKILL.md) | Propose a new change with design, specs, and tasks in one step |
 | [openspec-propose-arch](skills/openspec-propose-arch/SKILL.md) | Propose a change from an architecture/business/product owner viewpoint |
 | [openspec-reverse-engineer](skills/openspec-reverse-engineer/SKILL.md) | Reverse engineer an existing codebase into OpenSpec format |
+| [semver-advisor](skills/semver-advisor/SKILL.md) | Recommend a semantic version bump, candidate release version, and conventional commit message from uncommitted and unmerged changes |
 
 # Agent Behaviour
 
